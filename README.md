@@ -68,7 +68,7 @@ Python • XML Processing • TypeScript Testing Framework
 C Compiler  
 Lexical Analysis • Syntax Analysis • Semantic Analysis • Code Generation
 
-Network Scanner & Reliable TCP/UDP Transfer  
+Network Scanner & Reliable UDP Transfer  
 C • Raw Sockets • TCP/IP • Linux
 
 </div>
