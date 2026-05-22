@@ -34,9 +34,6 @@
     <a href="https://azure.microsoft.com/products/devops">
         <img height=30em src="https://img.shields.io/badge/Azure_DevOps-%2320232a?style=for-the-badge&logo=azuredevops">
     </a>
-    <a href="https://www.linux.org">
-        <img height=30em src="https://img.shields.io/badge/Linux-%2320232a?style=for-the-badge&logo=linux">
-    </a>
 </div>
 
 #
