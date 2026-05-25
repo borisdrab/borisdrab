@@ -77,8 +77,13 @@ C • Raw Sockets • TCP/IP • Linux
 
 <div align="center">
 
+📫 LinkedIn  
+<a href="https://www.linkedin.com/in/borisdrab">linkedin.com/in/borisdrab</a>
 
-📫 <a href="https://www.linkedin.com/in/borisdrab">LinkedIn</a> •
-🤗 <a href="https://huggingface.co/borisdrab">Hugging Face</a>
+🤗 Hugging Face  
+<a href="https://huggingface.co/borisdrab">huggingface.co/borisdrab</a>
+
+
+</div>
 
 </div>
